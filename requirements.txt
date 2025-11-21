@@ -1,0 +1,26 @@
+# LiveKit Agent Framework
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-cartesia
+livekit-plugins-silero
+
+# RAG and Vector Database
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+llama-index-llms-groq
+chromadb
+
+# Environment and Utilities
+python-dotenv
+aiohttp
+
+# Audio Processing
+torch
+torchaudio
+
+# PDF Processing
+pypdf2
+
+# Async Support
+aiofiles
