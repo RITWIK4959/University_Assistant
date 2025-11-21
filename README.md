@@ -50,10 +50,3 @@ Nexi is a voice-enabled campus assistant built with LiveKit agents + a RAG engin
 ## Development tips
 - Keep document updates in "Nexi Data/" and re-run your RAG ingestion pipeline (see [`rag_engine.py`](rag_engine.py)).
 - Use the integrated LiveKit session callbacks in [agent_patched.py](agent_patched.py) to extend behavior (e.g., add events on transcription).
-
-## License & contact
-- Add your license here.
-- For project-specific questions, inspect the functions and handlers in:
-  - [agent_patched.py](agent_patched.py)
-  - [rag_engine.py](rag_engine.py)
-  - [livekit_patch.py](livekit_patch.py)
